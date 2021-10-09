@@ -1,2 +1,2 @@
 # mac-dignose
-dignostics and log information about your device 
+diagnostics and log information about your device 
